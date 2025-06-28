@@ -9,7 +9,6 @@ process.stdin.on('end', () => {
 });
 function read() { return _input[_index++]; }
 
-/**** Ignore above this line. ****/
 
 class Person {
     constructor(firstName, lastName, identification) {
